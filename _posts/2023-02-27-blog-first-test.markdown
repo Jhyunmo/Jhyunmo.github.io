@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "블로그 포스팅 테스트"
-excerpt: "Github Blog post test"
+title:  "CodingTest"
+layout: archive
+permalink: categories/cpp
 date:   2023-02-27 16:46:31 +0900
-categories: Blog
-toc: true
+categories: jekyll update
+author_profile: true
+sidebar_main: true
 ---
+
+{% assign posts = site.categories.Cpp %}
+{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

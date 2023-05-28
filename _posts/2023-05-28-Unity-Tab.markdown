@@ -1,5 +1,5 @@
 ---
-title:  "Unity 강의"
+title:  "Unity"
 layout: archive
 permalink: categories/cpp
 date:   2023-05-28 11:50:31 +0900
