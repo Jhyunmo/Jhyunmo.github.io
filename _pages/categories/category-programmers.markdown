@@ -1,11 +1,11 @@
 ---
-title: "유니티 공부하면서 도움되는 자료모음"
+title: "Programmers Site CodingTest"
 layout: archive
-permalink: categories/unitystudy
+permalink: categories/programmers
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.UnityStudy %}
+{% assign posts = site.categories.Programmers %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
