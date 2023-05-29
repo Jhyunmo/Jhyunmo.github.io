@@ -25,8 +25,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "C Sharp" %}
-                        <li><a href="/categories/csharp" class="">C # {{category[1].size}})</a></li>                        
+                    {% if category[0] == "STL" %}
+                        <li><a href="/categories/stl" class="">C++ STL & 표준 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -48,7 +48,7 @@
         <span class="nav__sub-title">Unity</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "UnityLecture" %}
+                    {% if category[0] == "Unitylecture" %}
                         <li><a href="/categories/unitylecture" class="">유니티 강의 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
@@ -57,36 +57,6 @@
                 {% for category in site.categories %}
                     {% if category[0] == "UnityStudy" %}
                         <li><a href="/categories/unitystudy" class="">유니티 공부 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        <span class="nav__sub-title">Unreal</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "UnrealLecture" %}
-                        <li><a href="/categories/unreallecture" class="">언리얼 강의 (with C++) ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "UnrealStudy" %}
-                        <li><a href="/categories/unrealstudy" class="">언리얼 공부 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        <span class="nav__sub-title">Etc</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Interview" %}
-                        <li><a href="/categories/interview" class="">면접준비 (with C++) ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Blank" %}
-                        <li><a href="/categories/blank" class="">비고 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
