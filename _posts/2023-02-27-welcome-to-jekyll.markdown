@@ -9,8 +9,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2020-06-02
-last_modified_at: 2020-06-02
+date: 2023-05-29
+last_modified_at: 2023-05-29
 ---
 인프런에 있는 홍정모 교수님의 **홍정모의 따라 하며 배우는 C++** 강의를 듣고 정리한 필기입니다. 😀    
 [🌜 [홍정모의 따라 하며 배우는 C++]강의 들으러 가기!](https://www.inflearn.com/course/following-c-plus)
