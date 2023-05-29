@@ -1,12 +1,21 @@
 ---
-title:  "CodingTest"
-layout: archive
-permalink: categories/cpp
-date:   2023-02-27 16:46:31 +0900
-categories: jekyll update
-author_profile: true
-sidebar_main: true
+title:  "C++ Chapter 0" 
+
+categories:
+  - Cpp
+tags:
+  - [Cpp]
+
+toc: true
+toc_sticky: true
+
+date: 2023-02-27
+last_modified_at: 2023-05-29
 ---
 
-{% assign posts = site.categories.Cpp %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
+<br>
+
+## 0.1 Chapter 0
+
+### 공부방법
+- C

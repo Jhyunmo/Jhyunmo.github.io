@@ -1,12 +1,14 @@
 ---
-title:  "Unity Study"
-layout: archive
-permalink: categories/cpp
-date:   2023-05-29 16:46:31 +0900
-categories: jekyll update
-author_profile: true
-sidebar_main: true
----
+title:  "UI Canvas" 
 
-{% assign posts = site.categories.Cpp %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
+categories:
+  - UnityStudy
+tags:
+  - [UnityStudy]
+
+toc: true
+toc_sticky: true
+
+date: 2023-05-29
+last_modified_at: 2023-05-29
+---
