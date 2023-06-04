@@ -18,7 +18,7 @@ last_modified_at: 2023-06-04
   ```c#
 Input.multiTouchEnabled = false;
   ``` 
-## 만약 특정 UI에서만 MultiTouch를 제어하고 싶다면 해당 부분 Event에서 아래 구문을 사용하면 된다.
+>만약 특정 UI에서만 MultiTouch를 제어하고 싶다면 해당 부분 Event에서 아래 구문을 사용하면 된다.
   ```c#
 if(input.touchCount > 1) return;
   ``` 
