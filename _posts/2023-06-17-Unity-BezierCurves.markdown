@@ -13,7 +13,7 @@ last_modified_at: 2023-06-17
 ---
 
 # Bezier Curves
-![Bezier_quadratic_anim-kyuniitale](https://github.com/Jhyunmo/Jhyunmo.github.io/assets/88092754/71c20a40-e9ec-459a-ac73-8850136b0457){: width="50%" height="50%"}{: .align-left}
+![Bezier_quadratic_anim-kyuniitale](https://github.com/Jhyunmo/Jhyunmo.github.io/assets/88092754/71c20a40-e9ec-459a-ac73-8850136b0457){: width="50%" height="50%"}{: .align-center}
 <br>
 >점과 점 사이의 선형 보간(Lerp, Linear interpolation)을 이용해 그려내는 곡선
 
