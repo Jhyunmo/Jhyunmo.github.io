@@ -13,7 +13,7 @@ last_modified_at: 2023-06-17
 ---
 
 # Bezier Curves
-![image](https://github.com/Jhyunmo/Jhyunmo.github.io/assets/88092754/82345e8c-7779-41a3-8fa5-862cac990051){: width="100%" height="100%"}{: .align-center}
+![image](https://github.com/Jhyunmo/Jhyunmo.github.io/assets/88092754/615ee69c-5561-47e7-a527-9883e1072486){: width="80%" height="80%"}{: .align-center}
 >점과 점 사이의 선형 보간(Lerp, Linear interpolation)을 이용해 그려내는 곡선
 
 ## 1. Bezier Curves의 경로를 target 객체가 계속 이동하게 하는 코드이다.
@@ -54,7 +54,7 @@ public class BezierCurves : MonoBehaviour
 }
   ``` 
 
-  ## 2. Gizmos를 통해 실제 곡선의 경로를 확인하는 코드이다.(위 코드에 추가)
+## 2. Gizmos를 통해 실제 곡선의 경로를 확인하는 코드이다.(위 코드에 추가)
 
   ```c#
   public class BezierCurves : MonoBehaviour 
