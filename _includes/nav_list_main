@@ -56,7 +56,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "UnityStudy" %}
-                        <li><a href="/categories/unitystudy" class="">유니티 공부 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/unitystudy" class="">유니티 문서 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

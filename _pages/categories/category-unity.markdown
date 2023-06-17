@@ -1,5 +1,5 @@
 ---
-title: "유니티 공부하면서 도움되는 자료모음"
+title: "Unity Advice"
 layout: archive
 permalink: categories/unitystudy
 author_profile: true
