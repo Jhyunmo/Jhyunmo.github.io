@@ -1,5 +1,5 @@
 ---
-title:  "UGUI MultiTouch Control" 
+title:  "[Unity C#] UGUI MultiTouch Control" 
 date: 2023-06-04
 categories:
   - UnityStudy

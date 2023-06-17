@@ -1,5 +1,5 @@
 ---
-title:  "Notch Design에 대응하는 SafeArea" 
+title:  "[Unity C#] Notch Design에 대응하는 SafeArea" 
 date: 2023-05-29
 categories:
   - UnityStudy
