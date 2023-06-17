@@ -13,7 +13,7 @@ last_modified_at: 2023-06-17
 ---
 
 # Bezier Curves
-![image](C:\Users\hm939\Downloads\Bezier_quadratic_anim-kyuniitale.gif){: width="80%" height="80%"}{: .align-center}
+![image](https://postfiles.pstatic.net/data20/2006/11/7/225/Bezier_quadratic_anim-kyuniitale.gif?type=w2){: width="80%" height="80%"}{: .align-center}
 >점과 점 사이의 선형 보간(Lerp, Linear interpolation)을 이용해 그려내는 곡선
 
 ## 1. Bezier Curves의 경로를 target 객체가 계속 이동하게 하는 코드이다.
